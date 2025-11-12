@@ -1,0 +1,4 @@
+ENSURE TO PUT SAME SERVICE TYPE IN BENEFICIARY TOKEN ISSUE AS IN THE PROVIDER REGISTRATION
+
+DONE: Some places are trying to send backend req to localhost:3000 find and fix
+

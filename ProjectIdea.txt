@@ -1,0 +1,21 @@
+Project: Blockchain-Powered Transparent Charity Platform
+Problems/Issues
+- Misuse of Funds: Donors cannot reliably track how their contributions are spent.
+- Lack of Accountability: NGOs and charities often provide limited reporting on fund utilization.
+- Erosion of Trust: Donors hesitate to contribute due to fears of corruption or inefficiency.
+- Difficulty in Verification: No simple way exists to prove whether donations reached the intended beneficiaries.
+
+Importance
+- Donor Confidence: Transparency encourages more people and organizations to contribute.
+- Better Impact: Funds reach the intended cause more effectively, maximizing social benefit.
+- Fraud Prevention: Immutable records reduce chances of corruption and financial mismanagement.
+- Scalability: The system can be applied globally across disaster relief, education, healthcare, and community development initiatives.
+
+Technologies, Languages, and Frameworks
+- Blockchain Platform: Ethereum (for immutable donation tracking)
+- Smart Contracts: Solidity + Hardhat (for donation management, escrow, fund disbursement)
+- Frontend: Next.js + ethers.js (donor and NGO dashboards)
+- Backend: Node.js + MongoDB (for NGO metadata, donor records)
+- Off-Chain Storage: IPFS/Filecoin (for receipts, reports, proof documents)
+- Identity Verification: Civic / Polygon ID (for NGO KYC verification)
+- Transparency Tools: The Graph (indexing donation flows), Dune Analytics (public dashboards)

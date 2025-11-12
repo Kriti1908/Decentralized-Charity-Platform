@@ -13,8 +13,8 @@ Before you begin, ensure you have the following installed:
 ## Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/iDheer/Blockchain-Powered-Transparent-Charity-Platform.git
-cd Blockchain-Powered-Transparent-Charity-Platform
+git clone https://github.com/Kriti1908/Decentralized-Charity-Platform.git
+cd Decentralized-Charity-Platform
 ```
 
 ## Step 2: Install Dependencies

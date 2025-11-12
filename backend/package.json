@@ -9,7 +9,7 @@
     "test": "jest --coverage"
   },
   "keywords": ["blockchain", "charity", "api"],
-  "author": "iDheer",
+  "author": "Kriti1908",
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.2",
